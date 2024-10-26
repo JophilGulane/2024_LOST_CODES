@@ -1,0 +1,4 @@
+C:\Users\Ggula\Desktop\C#_Programs\C#_Programs\obj\Debug\net8.0\C#_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\C#_Programs\C#_Programs\obj\Debug\net8.0\C#_Programs.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\C#_Programs\C#_Programs\obj\Debug\net8.0\C#_Programs.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\C#_Programs\C#_Programs\obj\Debug\net8.0\C#_Programs.csproj.CoreCompileInputs.cache

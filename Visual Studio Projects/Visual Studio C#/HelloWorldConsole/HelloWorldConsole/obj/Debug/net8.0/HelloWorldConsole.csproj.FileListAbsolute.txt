@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.exe
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.deps.json
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.runtimeconfig.json
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.dll
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\bin\Debug\net8.0\HelloWorldConsole.pdb
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.dll
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\refint\HelloWorldConsole.dll
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.pdb
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\HelloWorldConsole.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\HelloWorldConsole\HelloWorldConsole\obj\Debug\net8.0\ref\HelloWorldConsole.dll

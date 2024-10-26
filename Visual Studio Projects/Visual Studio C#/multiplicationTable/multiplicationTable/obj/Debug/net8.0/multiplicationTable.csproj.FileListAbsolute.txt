@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\bin\Debug\net8.0\multiplicationTable.exe
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\bin\Debug\net8.0\multiplicationTable.deps.json
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\bin\Debug\net8.0\multiplicationTable.runtimeconfig.json
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\bin\Debug\net8.0\multiplicationTable.dll
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\bin\Debug\net8.0\multiplicationTable.pdb
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.dll
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\refint\multiplicationTable.dll
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.pdb
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\multiplicationTable.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\multiplicationTable\multiplicationTable\obj\Debug\net8.0\ref\multiplicationTable.dll

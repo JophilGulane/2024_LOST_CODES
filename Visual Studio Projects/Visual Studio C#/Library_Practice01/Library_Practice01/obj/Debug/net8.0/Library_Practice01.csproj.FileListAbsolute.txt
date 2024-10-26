@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\bin\Debug\net8.0\Library_Practice01.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\bin\Debug\net8.0\Library_Practice01.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\bin\Debug\net8.0\Library_Practice01.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\bin\Debug\net8.0\Library_Practice01.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\bin\Debug\net8.0\Library_Practice01.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\refint\Library_Practice01.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\Library_Practice01.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Library_Practice01\Library_Practice01\obj\Debug\net8.0\ref\Library_Practice01.dll

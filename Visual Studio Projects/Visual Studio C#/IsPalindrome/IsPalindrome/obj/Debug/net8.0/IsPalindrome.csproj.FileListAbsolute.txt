@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\bin\Debug\net8.0\IsPalindrome.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\refint\IsPalindrome.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\IsPalindrome.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\IsPalindrome\IsPalindrome\obj\Debug\net8.0\ref\IsPalindrome.dll

@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\bin\Debug\net8.0\Bubblesort.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\bin\Debug\net8.0\Bubblesort.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\bin\Debug\net8.0\Bubblesort.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\bin\Debug\net8.0\Bubblesort.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\bin\Debug\net8.0\Bubblesort.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\refint\Bubblesort.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\Bubblesort.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Bubblesort\Bubblesort\obj\Debug\net8.0\ref\Bubblesort.dll

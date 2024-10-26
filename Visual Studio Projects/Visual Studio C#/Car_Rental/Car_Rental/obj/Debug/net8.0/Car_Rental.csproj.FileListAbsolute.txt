@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\bin\Debug\net8.0\Car_Rental.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\bin\Debug\net8.0\Car_Rental.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\bin\Debug\net8.0\Car_Rental.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\bin\Debug\net8.0\Car_Rental.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\bin\Debug\net8.0\Car_Rental.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\refint\Car_Rental.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\Car_Rental.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Car_Rental\Car_Rental\obj\Debug\net8.0\ref\Car_Rental.dll

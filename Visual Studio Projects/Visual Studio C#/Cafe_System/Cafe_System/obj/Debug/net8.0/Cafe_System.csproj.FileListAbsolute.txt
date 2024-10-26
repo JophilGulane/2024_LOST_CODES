@@ -1,0 +1,28 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\refint\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\ref\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.exe
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.deps.json
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\bin\Debug\net8.0\Cafe_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\refint\Cafe_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\Cafe_System.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Cafe_System\Cafe_System\obj\Debug\net8.0\ref\Cafe_System.dll

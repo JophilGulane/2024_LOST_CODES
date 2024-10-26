@@ -1,0 +1,11 @@
+C:\Users\Ggula\Desktop\TournamentTracker\bin\Debug\net8.0\TournamentTracker.deps.json
+C:\Users\Ggula\Desktop\TournamentTracker\bin\Debug\net8.0\TournamentTracker.dll
+C:\Users\Ggula\Desktop\TournamentTracker\bin\Debug\net8.0\TournamentTracker.pdb
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.dll
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\refint\TournamentTracker.dll
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\TournamentTracker.pdb
+C:\Users\Ggula\Desktop\TournamentTracker\obj\Debug\net8.0\ref\TournamentTracker.dll

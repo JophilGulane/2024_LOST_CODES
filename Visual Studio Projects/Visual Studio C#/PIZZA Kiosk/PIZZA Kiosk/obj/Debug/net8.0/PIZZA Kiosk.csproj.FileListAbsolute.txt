@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\bin\Debug\net8.0\PIZZA Kiosk.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\bin\Debug\net8.0\PIZZA Kiosk.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\bin\Debug\net8.0\PIZZA Kiosk.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\bin\Debug\net8.0\PIZZA Kiosk.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\bin\Debug\net8.0\PIZZA Kiosk.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\refint\PIZZA Kiosk.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\PIZZA Kiosk.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\PIZZA Kiosk\PIZZA Kiosk\obj\Debug\net8.0\ref\PIZZA Kiosk.dll

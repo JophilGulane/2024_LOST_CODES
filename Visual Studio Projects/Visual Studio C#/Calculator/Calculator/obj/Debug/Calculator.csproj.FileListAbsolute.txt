@@ -1,0 +1,5 @@
+C:\Users\Ggula\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Ggula\Desktop\Calculator\Calculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Ggula\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ggula\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Ggula\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache

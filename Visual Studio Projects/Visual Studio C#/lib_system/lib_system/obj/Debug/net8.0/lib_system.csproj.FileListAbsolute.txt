@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\bin\Debug\net8.0\lib_system.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\bin\Debug\net8.0\lib_system.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\bin\Debug\net8.0\lib_system.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\bin\Debug\net8.0\lib_system.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\bin\Debug\net8.0\lib_system.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\refint\lib_system.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\lib_system.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\lib_system\lib_system\obj\Debug\net8.0\ref\lib_system.dll

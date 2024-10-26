@@ -1,0 +1,28 @@
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.exe
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.deps.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\refint\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\ref\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\refint\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.exe
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.deps.json
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.runtimeconfig.json
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.dll
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\bin\Debug\net8.0\Student_Enrollment_System.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\Student_Enrollment_System.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\Student_Enrollment_System\Student_Enrollment_System\obj\Debug\net8.0\ref\Student_Enrollment_System.dll

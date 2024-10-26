@@ -1,0 +1,16 @@
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\bin\Debug\net8.0-windows\WinAppPractice.exe
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\bin\Debug\net8.0-windows\WinAppPractice.deps.json
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\bin\Debug\net8.0-windows\WinAppPractice.runtimeconfig.json
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\bin\Debug\net8.0-windows\WinAppPractice.dll
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\bin\Debug\net8.0-windows\WinAppPractice.pdb
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.Form1.resources
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.csproj.GenerateResource.cache
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.dll
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\refint\WinAppPractice.dll
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.pdb
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\WinAppPractice.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\WinAppPractice\WinAppPractice\obj\Debug\net8.0-windows\ref\WinAppPractice.dll

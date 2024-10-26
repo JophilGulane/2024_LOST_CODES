@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\bin\Debug\net8.0\ARRAY.exe
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\bin\Debug\net8.0\ARRAY.deps.json
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\bin\Debug\net8.0\ARRAY.runtimeconfig.json
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\bin\Debug\net8.0\ARRAY.dll
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\bin\Debug\net8.0\ARRAY.pdb
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.dll
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\refint\ARRAY.dll
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.pdb
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ARRAY.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\ARRAY\ARRAY\obj\Debug\net8.0\ref\ARRAY.dll

@@ -1,0 +1,14 @@
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\bin\Debug\net8.0\HelloWorldApplication.exe
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\bin\Debug\net8.0\HelloWorldApplication.deps.json
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\bin\Debug\net8.0\HelloWorldApplication.runtimeconfig.json
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\bin\Debug\net8.0\HelloWorldApplication.dll
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\bin\Debug\net8.0\HelloWorldApplication.pdb
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.AssemblyInfoInputs.cache
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.AssemblyInfo.cs
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.dll
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\refint\HelloWorldApplication.dll
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.pdb
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\HelloWorldApplication.genruntimeconfig.cache
+C:\Users\Ggula\Desktop\HelloWorldApplication\HelloWorldApplication\obj\Debug\net8.0\ref\HelloWorldApplication.dll

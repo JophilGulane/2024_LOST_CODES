@@ -1,0 +1,20 @@
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.exe.config
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.exe
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.pdb
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.AssemblyReference.cache
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.Form1.resources
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.Properties.Resources.resources
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.GenerateResource.cache
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.exe
+C:\Users\Ggula\Desktop\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.exe.config
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.exe
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\bin\Debug\CalculatorWithoutTutorial.pdb
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.AssemblyReference.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.Form1.resources
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.Properties.Resources.resources
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.GenerateResource.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.exe
+C:\Users\Ggula\Desktop\Visual Studio Projects\Visual Studio C#\CalculatorWithoutTutorial\CalculatorWithoutTutorial\obj\Debug\CalculatorWithoutTutorial.pdb
